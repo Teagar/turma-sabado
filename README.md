@@ -97,3 +97,9 @@ Ele disse: "It's PHP!" e custou $5
 **Ex. 5.3** Crie uma matriz `$turma` com 2 alunos (cada um é um array associativo com `nome` e `nota`). Mostre o nome do segundo aluno e a média das duas notas.
 
 **Ex. 5.4** Crie `$numeros = [10, 20, 30]`. Some 5 ao primeiro com `+=`, dobre o segundo com `*=` e mostre a soma dos três.
+
+---
+
+## Próxima lista
+
+[Lista 2: problemas práticos (IMC, caixa eletrônico, carrinho de compras...)](lista-2/README.md)
